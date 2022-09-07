@@ -1,0 +1,9 @@
+body{
+    margin: 50px;
+    padding: 0;
+    background-color: #F38AAA;
+    -webkit-background-size: cover ;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    font-family: sans-serif;
+}
